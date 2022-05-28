@@ -2705,13 +2705,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@headlessui/react@npm:dev":
-  version: 0.0.0-dev.0ce63d8
-  resolution: "@headlessui/react@npm:0.0.0-dev.0ce63d8"
+"@headlessui/react@npm:^1.6.3":
+  version: 1.6.3
+  resolution: "@headlessui/react@npm:1.6.3"
   peerDependencies:
     react: ^16 || ^17 || ^18
     react-dom: ^16 || ^17 || ^18
-  checksum: 77b433c173652c568c384c248eef6acbf54e795e52eecdc7ea27489694bfbbbc0cc83161a989942b30d1f9fefe7ad7f56877feca597714d34b6030a54caa9bd0
+  checksum: be809e713697047b62e5cc3765e8dea957367d3a8cbaac390ff0f2f389c498c98a0855eff607d354db4f21126fd6c0d8f2d8cee069caf89de6611166c63245d0
   languageName: node
   linkType: hard
 
@@ -9133,7 +9133,7 @@ __metadata:
     "@davatar/react": ^1.8.1
     "@ethersproject/providers": ^5.0.23
     "@ethersproject/units": ^5.0.10
-    "@headlessui/react": dev
+    "@headlessui/react": ^1.6.3
     "@testing-library/jest-dom": ^5.11.4
     "@testing-library/react": ^11.1.0
     "@testing-library/user-event": ^12.1.10
